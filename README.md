@@ -4,4 +4,4 @@
 
 here we are moving a simple rectangle on the screen using ofxGui. but the rectangle is stored in a class.
 
-project was made in xcode, but the source code should work on all platforms
+removed all the xcode jargon, so just the source code in downloadable. it should work on any platform
